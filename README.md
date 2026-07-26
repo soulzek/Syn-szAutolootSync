@@ -7,5 +7,12 @@ Currently supports 1 global Auto-loot configuration that each character can choo
 
 ## Installation ##
 
-![Click Green <>Code button, then Download ZIP](./dontcopythis/install.jpg)
+![Click Green Code button, then Download ZIP](./dontcopythis/install.jpg)
+
 ![Copy only szAutolootSync folder to your Addons folder](./dontcopythis/install2.jpg)
+
+## Help ##
+
+![Access options with /szals. Re-log if you dont see sync complete](./dontcopythis/usage1.jpg)
+
+![If you see something went wrong, your autoloot settings are invalid](./dontcopythis/usage2.jpg)
