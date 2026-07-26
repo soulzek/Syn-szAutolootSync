@@ -1,0 +1,9 @@
+## Interface: 30000
+## Title: szAutolootSync
+## Notes: Synastria: Automatically syncs all character's Auto-loot options to the same global configuration
+## Author:  soulzek
+## Version: 1.0
+## SavedVariables: SETTINGS_GLOBAL
+## SavedVariablesPerCharacter: SETTINGS_CHARACTER
+
+szAutolootSync.lua
