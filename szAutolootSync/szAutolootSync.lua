@@ -25,7 +25,7 @@ local function OnAddonLoaded()
     ACCESS_SETTINGS_CHARACTER = SETTINGS_CHARACTER;
     -- defaults saved variables
     if (Settings_GetEnabled() == nil) then
-        Settings_SetEnabled(true);
+        Settings_SetEnabled(false);
     end
     -- szAutolootSync.Enabled = szAutolootSync.Enabled or true; -- ok fuck lua i cant with this nil/false shit
     -- szAutolootSync.Hash = szAutolootSync.Hash or "";
