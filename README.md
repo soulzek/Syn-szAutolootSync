@@ -5,6 +5,11 @@ Currently supports 1 global Auto-loot configuration that each character can choo
 
 **ANY changes (Hash or Enabled) require a relog to take effect**
 
+## Commands ##
+
+/szals
+This will open the addon settings interface
+
 ## Installation ##
 
 ![Click Green Code button, then Download ZIP](./dontcopythis/install.jpg)
