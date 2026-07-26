@@ -8,3 +8,4 @@ Currently supports 1 global Auto-loot configuration that each character can choo
 ## Installation ##
 
 ![Click Green <>Code button, then Download ZIP](./dontcopythis/install.jpg)
+![Copy only szAutolootSync folder to your Addons folder](./dontcopythis/install2.jpg)
